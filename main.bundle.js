@@ -24881,7 +24881,7 @@
         const fu = JSON.parse('{"rE":"0.5.2","l$":{"r":1,"M":4}}');
         const mu = "kodub"
           , gu = !1
-          , vu = "https://polytrack-backend.htmlunblockedgames.workers.dev/"
+          , vu = "https://polytrack-leaderboard.george-lloyd00.workers.dev/"
           , wu = fu.l$.r;
         if (!Number.isSafeInteger(wu) || wu < 1)
             throw new Error("package.json beta version property must be a positive integer");
@@ -37710,7 +37710,7 @@
             case "electron":
             case "capacitor":
             case "jest":
-                e = "https://sites.google.com/view/poly-track/";
+                e = "Imported by georgelloydd";
                 break;
             case "itch":
                 e = "https://kodub.itch.io/polytrack";
@@ -41766,8 +41766,8 @@ var KT, qT, YT, XT, ZT, JT, $T, eC, tC, nC, iC, rC, aC, sC, oC, lC, cC, hC, dC, 
 gN = function(e) {
             kN(this, JD, "f").innerHTML = "";
             const t = document.createElement("a");
-            t.href = "https://www.sites.google.com/view/poly-track",
-            t.textContent = "sites.google.com/view/poly-track",
+            t.href = "Imported by georgelloydd",
+            t.textContent = "Imported by georgelloydd",
             kN(this, JD, "f").appendChild(t);
             const n = document.createElement("a");
             n.href = "https://opengameart.org/content/sci-fi-theme-1",
@@ -41789,7 +41789,7 @@ gN = function(e) {
         ,
         wN = function() {
             if (null != kN(this, sN, "f")) {
-                const e = "https://www.sites.google.com/view/poly-track"
+                const e = "Imported by georgelloydd"
                   , t = jT()
                   , n = kN(this, sN, "f");
                 t ? n.textContent = kN(this, jD, "f").get("It seems like you are playing an unofficial version of {0}. For the most up-to-date version please visit the original source:", ["PolyTrack"]) + " " : n.textContent = "",
