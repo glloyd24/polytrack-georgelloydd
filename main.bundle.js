@@ -37702,7 +37702,7 @@
             return n = t + n,
             n
         }
-        function jT(){return !0 /* htmlunblockedgames\.github\.io */}
+        function jT(){return !1 /* htmlunblockedgames\.github\.io */}
         function QT() {
             let e;
             switch (mu) {
